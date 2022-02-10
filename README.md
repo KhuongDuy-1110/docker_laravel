@@ -1,8 +1,8 @@
 # Set up enviroment for laravel project
-PHP 7.4
-MYSQL 8.0.27
-REDIS lastest
-PHPMYADMIN 5.1
+PHP 7.4;
+MYSQL 8.0.27;
+REDIS lastest;
+PHPMYADMIN 5.1;
 
 # How to start
 
